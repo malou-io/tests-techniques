@@ -42,6 +42,12 @@ class MainTheme {
           fontSize: 10.0,
           color: MalouColors.textBody,
         ),
+        subtitle2: const TextStyle(
+          height: 1.5,
+          fontSize: 12.0,
+          fontStyle: FontStyle.italic,
+          color: MalouColors.textBody,
+        ),
       ),
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
